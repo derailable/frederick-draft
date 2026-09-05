@@ -1,0 +1,117 @@
+event_id,brewery_id,event_name,start_at,end_at,source_id
+event-a204ddb32f2e2128f684,brewers-alley,Happy Hour Friday,2026-09-04T11:00:00-04:00,2026-09-04T19:00:00-04:00,brewers-alley-events-ical
+event-6692f34811292418ef9f,olde-mother,Queerly Beloved Dance Party,2026-09-04T18:00:00-04:00,2026-09-04T21:30:00-04:00,olde-mother-events
+event-83ae7c5e6d0118c4fbff,rockwell,UNION BRIDGE Live in Concert,2026-09-04T20:00:00-04:00,2026-09-04T23:00:00-04:00,rockwell-events
+event-6ac666e367c32f8f3d87,sandbox,LIVE MUSIC with Eons,2026-09-04T22:00:00-04:00,2026-09-04T23:00:00-04:00,sandbox-events
+event-2a22d133063dd46c3360,sandbox,Sip & Script,2026-09-05T15:00:00-04:00,2026-09-05T16:30:00-04:00,sandbox-events
+event-46b9de21f81de87da8b7,steinhardt,Freddie Long,2026-09-05T19:00:00-04:00,2026-09-05T22:00:00-04:00,steinhardt-events
+event-634ce5cb3b943786c11c,rockwell,BORED CERTIFIED Party Band,2026-09-05T20:00:00-04:00,2026-09-05T23:00:00-04:00,rockwell-events
+event-2980ffb4782b53e0878d,rak,Sunday Brunch,2026-09-06T11:00:00-04:00,2026-09-06T15:00:00-04:00,rak-events
+event-2d0ab82abfbb62138cb8,steinhardt,Jazz Jam with Eric Byrd,2026-09-06T17:00:00-04:00,2026-09-06T19:00:00-04:00,steinhardt-events
+event-b1657bb2da1ed277b640,brewers-alley,Burger & Beer Monday!,2026-09-07T11:00:00-04:00,2026-09-07T21:00:00-04:00,brewers-alley-events-ical
+event-9cd808d31af69b5157b2,brewers-alley,Happy Hour,2026-09-07T16:00:00-04:00,2026-09-07T19:00:00-04:00,brewers-alley-events-ical
+event-5a995c1274a5df7b17d0,monocacy,BINGO Night!,2026-09-07T18:00:00-04:00,2026-09-07T21:00:00-04:00,monocacy-events-ical
+event-f28d302bef54524c2fcd,sandbox,Monday Trivia,2026-09-07T18:30:00-04:00,2026-09-07T21:00:00-04:00,sandbox-events
+event-e138795bcfe970800b0d,brewers-alley,Big Bowl Tuesday!,2026-09-08T11:00:00-04:00,2026-09-08T21:00:00-04:00,brewers-alley-events-ical
+event-fea8d23b04582e685579,brewers-alley,Happy Hour,2026-09-08T16:00:00-04:00,2026-09-08T19:00:00-04:00,brewers-alley-events-ical
+event-05d56a3a31c2e9acbc49,monocacy,Bring Your Own Vinyl,2026-09-08T18:00:00-04:00,2026-09-08T20:00:00-04:00,monocacy-events-ical
+event-765bff2713861085dcb8,sandbox,Zine Club,2026-09-08T18:30:00-04:00,2026-09-08T20:30:00-04:00,sandbox-events
+event-3d246aa1ff1ef64abc67,rak,Pour House Trivia,2026-09-08T19:00:00-04:00,2026-09-08T21:00:00-04:00,rak-events
+event-618bdadc9a3cbc7da550,brewers-alley,Pitcher and Pizza Wednesday!,2026-09-09T11:00:00-04:00,2026-09-09T21:00:00-04:00,brewers-alley-events-ical
+event-4d6f8f8006ee57dacc02,brewers-alley,Happy Hour,2026-09-09T16:00:00-04:00,2026-09-09T19:00:00-04:00,brewers-alley-events-ical
+event-88c588f30871ed7bfb95,steinhardt,Yoga in the Taproom,2026-09-09T17:45:00-04:00,2026-09-09T18:45:00-04:00,steinhardt-events
+event-ee7d8a0bd043c6d92335,monocacy,Trivia Night,2026-09-09T19:00:00-04:00,2026-09-09T21:00:00-04:00,monocacy-events-ical
+event-59e2c692bf6973f91fac,rak,Pour House Trivia,2026-09-09T19:00:00-04:00,2026-09-09T21:00:00-04:00,rak-events
+event-c3f1d727302cadf90217,sandbox,Songwriter Sesh LIVE!,2026-09-09T19:00:00-04:00,2026-09-09T21:00:00-04:00,sandbox-events
+event-2d41f868281ec6c3af8d,steinhardt,Bluegrass Jam,2026-09-09T19:00:00-04:00,2026-09-09T21:00:00-04:00,steinhardt-events
+event-29900e2ea62c9842fdfb,brewers-alley,Lobster Day!,2026-09-10T11:00:00-04:00,2026-09-10T21:00:00-04:00,brewers-alley-events-ical
+event-7f5e35bc3b7bd3a1e7a5,monocacy,All Hours Happy Hour,2026-09-10T15:00:00-04:00,2026-09-10T22:00:00-04:00,monocacy-events-ical
+event-c28b30a0c8ee148e2a11,brewers-alley,Happy Hour,2026-09-10T16:00:00-04:00,2026-09-10T19:00:00-04:00,brewers-alley-events-ical
+event-4698db77ca4b227595f1,sandbox,Creative Hours,2026-09-10T17:30:00-04:00,2026-09-10T20:30:00-04:00,sandbox-events
+event-267e4e9e6214eb0b8aab,monocacy,LIVE MUSIC THURSDAYS: JAMIE KAYE,2026-09-10T18:00:00-04:00,2026-09-10T21:00:00-04:00,monocacy-events-ical
+event-1b91865af73204529bf8,sandbox,Board Game Night,2026-09-10T18:00:00-04:00,2026-09-10T21:00:00-04:00,sandbox-events
+event-a2b82ce74904fe6067e7,olde-mother,Trivia Night!,2026-09-10T19:00:00-04:00,2026-09-10T21:30:00-04:00,olde-mother-events
+event-14c2e7b659a724b6995a,steinhardt,Pour House Trivia,2026-09-10T19:00:00-04:00,2026-09-10T21:00:00-04:00,steinhardt-events
+event-3645e923e8b32ba76b82,brewers-alley,Happy Hour Friday,2026-09-11T11:00:00-04:00,2026-09-11T19:00:00-04:00,brewers-alley-events-ical
+event-e30e4b4fc65decdb095c,steinhardt,Speed Dating,2026-09-11T18:30:00-04:00,2026-09-11T21:45:00-04:00,steinhardt-events
+event-c53a3265f62400caedf1,sandbox,That 90's Show with Marshal Fuzz,2026-09-11T19:00:00-04:00,2026-09-11T22:00:00-04:00,sandbox-events
+event-ad010a5feb20eeef0fe1,steinhardt,Garrett Mabe Trio,2026-09-11T19:00:00-04:00,2026-09-11T22:00:00-04:00,steinhardt-events
+event-40d021a8e5a4769d51ff,steinhardt,Lucky Punk Trio,2026-09-12T19:00:00-04:00,2026-09-12T22:00:00-04:00,steinhardt-events
+event-4011cfe6542a03c45a68,sandbox,Kesha Party!!,2026-09-12T21:00:00-04:00,2026-09-12T23:59:00-04:00,sandbox-events
+event-89cc34a0d3010120e222,rak,Sunday Brunch,2026-09-13T11:00:00-04:00,2026-09-13T15:00:00-04:00,rak-events
+event-a1e600e321340624e095,steinhardt,Frederick Plant Swap,2026-09-13T12:00:00-04:00,2026-09-13T17:00:00-04:00,steinhardt-events
+event-9641184d5413caaea843,steinhardt,Domenica Knapp & Wild Aster,2026-09-13T15:00:00-04:00,2026-09-13T18:00:00-04:00,steinhardt-events
+event-c9cc204c947ac6ddc029,brewers-alley,Burger & Beer Monday!,2026-09-14T11:00:00-04:00,2026-09-14T21:00:00-04:00,brewers-alley-events-ical
+event-fc8f93023f7202f9830c,brewers-alley,Happy Hour,2026-09-14T16:00:00-04:00,2026-09-14T19:00:00-04:00,brewers-alley-events-ical
+event-188d8c7b9057ae753308,sandbox,The Paw Pad Pop Up,2026-09-14T16:00:00-04:00,2026-09-14T19:00:00-04:00,sandbox-events
+event-e65d9ca1e4c1bf98f3e8,monocacy,BINGO Night!,2026-09-14T18:00:00-04:00,2026-09-14T21:00:00-04:00,monocacy-events-ical
+event-89352d0bb6eaefc1032f,olde-mother,Pages & Pints: An Olde Mother Book Club,2026-09-14T18:30:00-04:00,,olde-mother-events
+event-11460c4952a0f1e1cb37,brewers-alley,Big Bowl Tuesday!,2026-09-15T11:00:00-04:00,2026-09-15T21:00:00-04:00,brewers-alley-events-ical
+event-f81afdeecac38eaa8716,brewers-alley,Happy Hour,2026-09-15T16:00:00-04:00,2026-09-15T19:00:00-04:00,brewers-alley-events-ical
+event-835d341afdeaac325479,monocacy,Bring Your Own Vinyl,2026-09-15T18:00:00-04:00,2026-09-15T20:00:00-04:00,monocacy-events-ical
+event-79a90b854eb371407d3a,rak,Pour House Trivia,2026-09-15T19:00:00-04:00,2026-09-15T21:00:00-04:00,rak-events
+event-51880ae2332171c0a9e1,brewers-alley,Pitcher and Pizza Wednesday!,2026-09-16T11:00:00-04:00,2026-09-16T21:00:00-04:00,brewers-alley-events-ical
+event-5be086b73cfb4e638dc5,brewers-alley,Happy Hour,2026-09-16T16:00:00-04:00,2026-09-16T19:00:00-04:00,brewers-alley-events-ical
+event-d675f21ecadc9d1bbd09,steinhardt,Yoga in the Taproom,2026-09-16T17:45:00-04:00,2026-09-16T18:45:00-04:00,steinhardt-events
+event-d49cd24930a71e9295b4,sandbox,Songwriter's Workshop,2026-09-16T18:45:00-04:00,2026-09-16T21:30:00-04:00,sandbox-events
+event-016050f1c08c448f33b5,monocacy,Trivia Night,2026-09-16T19:00:00-04:00,2026-09-16T21:00:00-04:00,monocacy-events-ical
+event-7c54aa7c372ef3c0c484,rak,Pour House Trivia,2026-09-16T19:00:00-04:00,2026-09-16T21:00:00-04:00,rak-events
+event-d5cc5d072df4ead88257,steinhardt,Bluegrass Jam,2026-09-16T19:00:00-04:00,2026-09-16T21:00:00-04:00,steinhardt-events
+event-8736ef3284caa7992b75,brewers-alley,Lobster Day!,2026-09-17T11:00:00-04:00,2026-09-17T21:00:00-04:00,brewers-alley-events-ical
+event-6822e31a01acf02614e3,monocacy,All Hours Happy Hour,2026-09-17T15:00:00-04:00,2026-09-17T22:00:00-04:00,monocacy-events-ical
+event-dc935175ef19830279f0,brewers-alley,Happy Hour,2026-09-17T16:00:00-04:00,2026-09-17T19:00:00-04:00,brewers-alley-events-ical
+event-23ad8ac88c4df7c6e492,steinhardt,Pour House Trivia,2026-09-17T19:00:00-04:00,2026-09-17T21:00:00-04:00,steinhardt-events
+event-4e5af6d16430e50bf09f,brewers-alley,Happy Hour Friday,2026-09-18T11:00:00-04:00,2026-09-18T19:00:00-04:00,brewers-alley-events-ical
+event-6aec449b271778c7375d,steinhardt,Jamie Kaye,2026-09-18T19:00:00-04:00,2026-09-18T22:00:00-04:00,steinhardt-events
+event-ee99a33011392da6c458,rockwell,BOOM! Live in Concert,2026-09-18T20:00:00-04:00,2026-09-18T23:00:00-04:00,rockwell-events
+event-36d4c7e2cd0275ba0c27,steinhardt,Wharf Rats,2026-09-19T19:00:00-04:00,2026-09-19T22:00:00-04:00,steinhardt-events
+event-be6860ba5384b9708bd8,rockwell,LUNAR TWIST Live in Concert,2026-09-19T20:00:00-04:00,2026-09-19T23:00:00-04:00,rockwell-events
+event-26e0095e5d72c1d24029,rak,Sunday Brunch,2026-09-20T11:00:00-04:00,2026-09-20T15:00:00-04:00,rak-events
+event-79a8e5a5dedbe7477287,steinhardt,Pups and Poses,2026-09-20T11:00:00-04:00,2026-09-20T12:00:00-04:00,steinhardt-events
+event-87ad3726e3397b6df1e5,steinhardt,Barks and Brews Mini Market,2026-09-20T12:00:00-04:00,2026-09-20T16:00:00-04:00,steinhardt-events
+event-4da9db07af98c9262974,steinhardt,Jazz Jam with Eric Byrd,2026-09-20T17:00:00-04:00,2026-09-20T19:00:00-04:00,steinhardt-events
+event-be8669dd6217e2c91134,brewers-alley,Burger & Beer Monday!,2026-09-21T11:00:00-04:00,2026-09-21T21:00:00-04:00,brewers-alley-events-ical
+event-12bca82ca0df394a45cc,brewers-alley,Happy Hour,2026-09-21T16:00:00-04:00,2026-09-21T19:00:00-04:00,brewers-alley-events-ical
+event-d6d16d21837551ed8c28,monocacy,BINGO Night!,2026-09-21T18:00:00-04:00,2026-09-21T21:00:00-04:00,monocacy-events-ical
+event-3e9d11170d3b3d496116,brewers-alley,Big Bowl Tuesday!,2026-09-22T11:00:00-04:00,2026-09-22T21:00:00-04:00,brewers-alley-events-ical
+event-30be0fa30f6ace42cebb,brewers-alley,Happy Hour,2026-09-22T16:00:00-04:00,2026-09-22T19:00:00-04:00,brewers-alley-events-ical
+event-8f544a70be7913c6846c,monocacy,Bring Your Own Vinyl,2026-09-22T18:00:00-04:00,2026-09-22T20:00:00-04:00,monocacy-events-ical
+event-851bfe8c946864c0e0ed,rak,Pour House Trivia,2026-09-22T19:00:00-04:00,2026-09-22T21:00:00-04:00,rak-events
+event-37a0eb54bab00c67bf48,brewers-alley,Pitcher and Pizza Wednesday!,2026-09-23T11:00:00-04:00,2026-09-23T21:00:00-04:00,brewers-alley-events-ical
+event-2785849adb13d9abd369,brewers-alley,Happy Hour,2026-09-23T16:00:00-04:00,2026-09-23T19:00:00-04:00,brewers-alley-events-ical
+event-4c90ac18170f321720a5,steinhardt,Yoga in the Taproom,2026-09-23T17:45:00-04:00,2026-09-23T18:45:00-04:00,steinhardt-events
+event-76ed932d2d0a7e8dc797,monocacy,Trivia Night,2026-09-23T19:00:00-04:00,2026-09-23T21:00:00-04:00,monocacy-events-ical
+event-b92c8221cdc699b91714,rak,Pour House Trivia,2026-09-23T19:00:00-04:00,2026-09-23T21:00:00-04:00,rak-events
+event-2716f691118facf28eb4,steinhardt,Bluegrass Jam,2026-09-23T19:00:00-04:00,2026-09-23T21:00:00-04:00,steinhardt-events
+event-68e6fcaa1753c1c72f45,brewers-alley,Lobster Day!,2026-09-24T11:00:00-04:00,2026-09-24T21:00:00-04:00,brewers-alley-events-ical
+event-99375b8be62539595883,monocacy,All Hours Happy Hour,2026-09-24T15:00:00-04:00,2026-09-24T22:00:00-04:00,monocacy-events-ical
+event-5ffd3cf89c7e48bb73f3,brewers-alley,Happy Hour,2026-09-24T16:00:00-04:00,2026-09-24T19:00:00-04:00,brewers-alley-events-ical
+event-f746a7bbf32cf0ecf1ca,steinhardt,Pour House Trivia,2026-09-24T19:00:00-04:00,2026-09-24T21:00:00-04:00,steinhardt-events
+event-1b743f6becf6f2ec5a39,brewers-alley,Happy Hour Friday,2026-09-25T11:00:00-04:00,2026-09-25T19:00:00-04:00,brewers-alley-events-ical
+event-2af25ec56c0182f71935,sandbox,Rock Steady Sound,2026-09-25T19:00:00-04:00,2026-09-25T22:00:00-04:00,sandbox-events
+event-d8deea75668c3f599a1a,steinhardt,Vinyl Notice,2026-09-25T19:00:00-04:00,2026-09-25T22:00:00-04:00,steinhardt-events
+event-2cef07f1be797f31118f,rockwell,ROIYALTY Live in Concert,2026-09-25T20:00:00-04:00,2026-09-25T23:00:00-04:00,rockwell-events
+event-fc8494bbefa99a3c8066,steinhardt,Next Stop Comedy,2026-09-26T19:00:00-04:00,2026-09-26T22:00:00-04:00,steinhardt-events
+event-dcafa09c794b82b148f7,sandbox,Creek Show Afterparty with Seven Teller,2026-09-26T22:00:00-04:00,2026-09-26T23:59:00-04:00,sandbox-events
+event-ee89a26ed090989b50f5,rak,Sunday Brunch,2026-09-27T11:00:00-04:00,2026-09-27T15:00:00-04:00,rak-events
+event-9e940c1a23b7ae9f2534,sandbox,Knine Rescue Adoption Event,2026-09-27T12:00:00-04:00,2026-09-27T15:00:00-04:00,sandbox-events
+event-be7f3adc83c9ab973a92,steinhardt,Michelle & Jason Hannon,2026-09-27T15:00:00-04:00,2026-09-27T18:00:00-04:00,steinhardt-events
+event-0c2e259f186d95e928a6,brewers-alley,Burger & Beer Monday!,2026-09-28T11:00:00-04:00,2026-09-28T21:00:00-04:00,brewers-alley-events-ical
+event-344d2f53807e5b9fc29d,brewers-alley,Happy Hour,2026-09-28T16:00:00-04:00,2026-09-28T19:00:00-04:00,brewers-alley-events-ical
+event-5bd8eff0d26bcfede631,monocacy,BINGO Night!,2026-09-28T18:00:00-04:00,2026-09-28T21:00:00-04:00,monocacy-events-ical
+event-3716a6682d1148801aee,monocacy,Bring Your Own Vinyl,2026-09-29T18:00:00-04:00,2026-09-29T20:00:00-04:00,monocacy-events-ical
+event-c4d2324a943dcc274279,rak,Pour House Trivia,2026-09-29T19:00:00-04:00,2026-09-29T21:00:00-04:00,rak-events
+event-83692c680387c6b152ee,steinhardt,Yoga in the Taproom,2026-09-30T17:45:00-04:00,2026-09-30T18:45:00-04:00,steinhardt-events
+event-bf975ce5c38df3fc6685,monocacy,Trivia Night,2026-09-30T19:00:00-04:00,2026-09-30T21:00:00-04:00,monocacy-events-ical
+event-55646206a6f56047e9ed,rak,Pour House Trivia,2026-09-30T19:00:00-04:00,2026-09-30T21:00:00-04:00,rak-events
+event-8a786d2447cf002d998f,steinhardt,Bluegrass Jam,2026-09-30T19:00:00-04:00,2026-09-30T21:00:00-04:00,steinhardt-events
+event-6fde7de8d70230392365,steinhardt,Pour House Trivia,2026-10-01T19:00:00-04:00,2026-10-01T21:00:00-04:00,steinhardt-events
+event-9d4b275fce08690716f3,sandbox,Jamie Kaye First Fridays,2026-10-02T19:00:00-04:00,2026-10-02T22:00:00-04:00,sandbox-events
+event-40928d8b9f31cdf8f7ec,steinhardt,Ginada Pinata,2026-10-02T19:00:00-04:00,2026-10-02T22:00:00-04:00,steinhardt-events
+event-0f90cb97f9d48188c11b,steinhardt,Oktoberfest,2026-10-03T12:00:00-04:00,2026-10-03T22:00:00-04:00,steinhardt-events
+event-f0e00d5e7b96c9f12ad5,steinhardt,Billy & The Curley Brothers,2026-10-03T19:00:00-04:00,2026-10-03T22:00:00-04:00,steinhardt-events
+event-065b168ce11731f39a96,steinhardt,Pups and Poses,2026-10-04T11:00:00-04:00,2026-10-04T12:00:00-04:00,steinhardt-events
+event-308081b306e2216a0293,sandbox,"Boos, Brews, and Candles",2026-10-04T14:00:00-04:00,2026-10-04T16:00:00-04:00,sandbox-events
+event-79d88fbd99bf79db4aa7,steinhardt,Jazz Jam with Eric Byrd,2026-10-04T17:00:00-04:00,2026-10-04T19:00:00-04:00,steinhardt-events
+event-2e1a62831a207cc3245e,sandbox,Open Mic Night,2026-10-07T18:00:00-04:00,2026-10-07T20:00:00-04:00,sandbox-events
+event-cbbf607d2180186f8539,sandbox,Frederick G-Night,2026-10-09T16:00:00-04:00,2026-10-09T22:30:00-04:00,sandbox-events

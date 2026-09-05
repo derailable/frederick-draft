@@ -1,0 +1,108 @@
+draft_id,brewery_id,beer_name,style,abv,ibu,first_seen_date,last_seen_date,first_missing_date,source_id
+draft-0bb3ca9f95860f44ed9a,attaboy,BACKYARD QUEEN,HELLES LAGER,5.3,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-571e21e0c4b801a5828b,attaboy,COLD FOX,COLD IPA,6.9,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-b2a467182912fd95ed65,attaboy,GUAVA NO GUAVA,NEW ENGLAND IPA,7.0,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-12f791320e4849399042,attaboy,JURASSIC ORANGE,WHEAT BEER WITH ORANGE ZEST,6.4,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-2323afd47eb967558b91,attaboy,KUSH TIGGER,DOUBLE IPA W/ TERPENES,9.2,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-4ec9d0d47e891a23580e,attaboy,LUNCH BREAK,PATERSBIER,4.1,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-5497f177e0f1aba493ee,attaboy,MERMAID BLOOD,HIBISCUS BLONDE,6.9,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-0dba5bfc08fc8c39d005,attaboy,RUUD-ER,STRONG GOLDEN,9.0,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-5fd3295a14e0e33e3a68,attaboy,SMALL TANK 083,BARREL AGED TART ALE W/ APRICOT & LAVENDER,6.1,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-0994849492850abb386a,attaboy,THE WHISTLER,WEST COAST IPA,7.0,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-2831bf9cf1904bd0b22d,attaboy,WOWDEEDEE,WEST COAST PILS,5.3,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-f5da9b0613a427b241b0,attaboy,YESSIRREEBOB,DOUBLE NEW ENGLAND IPA,8.3,,2026-09-04,2026-09-04,,attaboy-drafts
+draft-2f58036ec1c27048b8b7,freys,CARTOON DREAMS,Witbier,5.4,,2026-09-04,2026-09-04,,freys-drafts
+draft-1e2ee97a15b0250a4fc2,freys,Coffee Stout,Coffee Stout,6.4,,2026-09-04,2026-09-04,,freys-drafts
+draft-a3afdd94d1a7dae86b72,freys,DUKE OF FARMINGLAND,Hazy Session,4.7,,2026-09-04,2026-09-04,,freys-drafts
+draft-dd69cc319bec67046df5,freys,HOODBINE LIGHT,Light Lager,4.0,,2026-09-04,2026-09-04,,freys-drafts
+draft-610410c3ceca3443c514,freys,LIBERTYTOWN LOVE,American Lager,4.5,,2026-09-04,2026-09-04,,freys-drafts
+draft-a19a5cf010af333ae24f,freys,RAVING WITH THE TEENS,IPA,6.4,,2026-09-04,2026-09-04,,freys-drafts
+draft-7562434fa4a047d29e2b,freys,TEMPT THE DEVIL,Extra Stout,6.4,,2026-09-04,2026-09-04,,freys-drafts
+draft-a17082065fc279ce27c0,freys,TOPLESS FRED,Hazy IPA,6.7,,2026-09-04,2026-09-04,,freys-drafts
+draft-40cbb6f44932bf41a348,liquidity,Bent River Sunset,West Coast IPA,6.7,56.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-5c28bba0aacae384fb5e,liquidity,Bergsteiger,Munich Style Lager,4.5,30.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-e3974790e2efbb0f8bad,liquidity,Bonus Pay,Hazy IPA,6.8,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-6558ed85af7fb039ba83,liquidity,Cannonball Rally IPA,West Coast IPA,6.5,56.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-cde2f7ffc1a5fe07ccca,liquidity,Dr. PennyBags Ph. D.,Imperial Hazy IPA,10.0,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-36d571591352838d27ae,liquidity,First National,American Lager,5.5,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-f4f0c7ee787a39cb5509,liquidity,Joint Venture,Hazy IPA w/Hemp seeds and Dank Terpenes,7.2,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-4f96269c9ebc1433c1bf,liquidity,Knockout Option,Doppelbock,7.5,20.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-9bcebc59eadfb9b28cb1,liquidity,Leverage,Wheat Ale w/ Tangerine,5.5,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-f8f6765df8e0a3cc7297,liquidity,M.A.S.M. (Mount Airy Spicy Marshmallow),Spicy Marshmallow Stout,6.0,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-3d212c8a23658635b097,liquidity,Mix Tape Vol 4,Session Hazy IPA,5.4,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-74ed7dbc2cd32de2113c,liquidity,No Bull,Stout,7.0,46.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-7fe5d15724b177f327b8,liquidity,Piggy Bank: Triple Berry,Fruited Sour - Triple Berry,6.0,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-ae36ae31fb8ca297096a,liquidity,Powers of Persuasion,American Pale Ale,6.0,34.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-9f34f63fa2a139c0f930,liquidity,"Sir James, First of his Name",West Coast Double IPA,8.0,81.0,2026-09-04,2026-09-04,,liquidity-drafts
+draft-e2efb4b21690c0452a97,liquidity,Slice of the Pie,Pumpkin Spice Ale,6.0,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-ee7bf93d5ba9456e90ca,liquidity,Topline,Hazy IPA,7.0,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-638fc31e65aa113f51b7,liquidity,Très Dudes,Salted Lime Mexican Lager,4.6,,2026-09-04,2026-09-04,,liquidity-drafts
+draft-f751432c075fed01ae8c,midnight-run,blonde bombadil,barleywine,9.0,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-549c7b494d9ec0aa861c,midnight-run,light devil,Belgian ale,7.0,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-f3c10205791fdb2ad3eb,midnight-run,past time,golden ale,4.5,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-a060a72bffcce0308bb4,midnight-run,tempo,IPA,5.0,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-5b0c617f54654c1a77b4,midnight-run,the cheerio,roasted nut brown ale,8.5,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-71a5c641c4369773ccfa,midnight-run,the grape,sour,8.5,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-ab3e12c21ccbd920301f,midnight-run,timeloop,DIPA,7.9,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-a84ad10136f09ecae677,midnight-run,white devil,belgian quad,11.0,,2026-09-04,2026-09-04,,midnight-run-drafts-pdf
+draft-248394e0ac4302972707,milkhouse,Catoctin Heritage Vienna Lager,Vienna Lager,5.4,20.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-065f768b3a31b83470cf,milkhouse,Coppermine Creek Dry Stout,Dry Irish Stout,4.5,40.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-7f0838fe4b71c9e34928,milkhouse,Dollyhyde Farmhouse Ale,Belgian Farmhouse,4.5,20.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-c1bba66e10d5915d9dee,milkhouse,Dragon’s Awake,Wild Ale,5.6,,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-cd1a83db6be72171408a,milkhouse,Goldies Best Bitter,English Style Bitter,4.2,40.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-3fffae8011f992bed504,milkhouse,Green Farmer 30,Pale Ale,5.5,35.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-2c5c258f0f139e2adfc6,milkhouse,Green Valley Gose,Gose,4.5,10.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-f33de289d1be6866b59b,milkhouse,Heather Hill Honey Brown Lager,Brown Lager,4.8,,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-221fb635916cd227af4f,milkhouse,Homestate Hefeweizen,German Style Hefeweizen,5.3,15.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-4ad0136174592ee13363,milkhouse,Jimmy Nelly Irish Red,Irish Red,5.5,25.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-d73a5c3e9ef06de4be2f,milkhouse,Local Lager,Lager,4.2,,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-d586045373aa4ad98c32,milkhouse,Mayta’s Peruvian Purple Corn Cream Ale,Cream Ale,5.4,13.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-f5f6d25520e4d4876f61,milkhouse,Mayta’s Peruvian Quinoa Pale Ale,Pale Ale,6.0,35.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-c55c713df22deb50d258,milkhouse,Mayta’s Peruvian Toasted Lager,Lager,6.0,13.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-9c70d7f44419e340bf97,milkhouse,Stairway IPA,India Pale Ale,7.2,60.0,2026-09-04,2026-09-04,,milkhouse-drafts
+draft-66b1ba03ac6dc107cf75,rak,5 Berry Cobbler,SMOOTHIE SOUR,6.5,,2026-09-04,2026-09-04,,rak-drafts
+draft-e5efa8fe514b45d9cde9,rak,Dublin Drop,STOUT,10.2,,2026-09-04,2026-09-04,,rak-drafts
+draft-8c2e6543d0b9aedbc18a,rak,KINDNESS KILLS,NEW ENGLAND IPA,6.8,,2026-09-04,2026-09-04,,rak-drafts
+draft-a6f42bab8d3b962db725,rak,Kohias' Calling,HAZY IPA,7.5,,2026-09-04,2026-09-04,,rak-drafts
+draft-bea66172e4e8f69d33de,rak,SACRED SWORD,PEACHARINE HAZY PALE,5.5,,2026-09-04,2026-09-04,,rak-drafts
+draft-7b42a2774c253ed64aff,rak,Untamed Wilderness,,8.0,,2026-09-04,2026-09-04,,rak-drafts
+draft-b87b698af86b3b21fb99,rockwell,B.I.G. JUICY,NEW ENGLAND IPA,7.1,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-0b27330662c68814fd3d,rockwell,BARRELL AGED GROUNDSKEEPER WILLY,WEE HEAVY SCOTTISH ALE,12.0,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-760d6d9aca0db0287a12,rockwell,BITCHIN CAMARO,MILK STOUT,6.3,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-5f5d192770c531ef1a78,rockwell,CHERRY PIE,SOUR,7.6,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-d5c227d49aa3b5459658,rockwell,DRINKING WITH DAD,PILSNER,5.3,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-9a67dec8cf6de81efb69,rockwell,DROP IT LIKES IT HOP,HAZY NEIPA,7.3,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-494bfe624144ff16c5c4,rockwell,DROPKICK RED,Irish Red Ale,6.8,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-1a5442024c4fe2f35a82,rockwell,EL KABONG,WEST COAST IPA,7.5,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-ddc76f53020b5f4dfd74,rockwell,ESPRESSO COFFEE ALE,Coffee Ale,6.3,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-6ae9a8d8885aaa28e29e,rockwell,FESTBIER,GERMAN LAGER,5.0,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-5879a2e73da7eb2e1aff,rockwell,GROUNDSKEEPER WILLY,WEE HEAVY SCOTTISH ALE,9.9,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-c19c7acccf7ced97afd8,rockwell,NOBLE SAVAGE,DIPA,8.5,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-0ff77f4f541d8d29c724,rockwell,RAPTURE,AMERICAN BLONDE ALE,5.4,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-43c538afc21548eccfca,rockwell,SIMPLE LIFE,LAGER,2.6,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-986850dac000b0815524,rockwell,SIMPLE LIFE - HAZY,HAZY NEIPA,2.6,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-a8e14f44a2156614c5a3,rockwell,SIMPLE LIFE - WEST COAST,WEST COAST IPA,2.6,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-62ed59e072c175aea9c5,rockwell,SPACEGRASS,IPA,7.2,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-9818a31b54262ea32cf8,rockwell,TOGA PARTY,Frat Boy Light Lager,5.5,,2026-09-04,2026-09-04,,rockwell-drafts-menu
+draft-a978c87e9c3a6cfadf17,smoketown,Berlin Brown Ale,Brown Ale,5.4,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-97cee1d62592ddc59afd,smoketown,Big Cat Lite Lager,Lite Lager,3.3,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-b106135574340d7e1f09,smoketown,Black Dog Coffee Stout,Coffee Stout,8.1,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-db175fa46e6ffa0f1311,smoketown,Blew Mooon Belgian Wit,Belgian Wit,5.6,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-90d8c27cf38e12353be1,smoketown,Country Roads Pilsner,Pilsner,4.7,8.0,2026-09-04,2026-09-04,,smoketown-drafts
+draft-6e922765da78ae861e43,smoketown,Das Kolsch,Kolsch,5.5,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-49f3011d2c341f12238a,smoketown,Dorothy Bourbon Barrel Aged Stout,Bourbon Barrel Aged Stout,15.0,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-2c5fe5d224427d7e421b,smoketown,Gandy Oatmeal Stout,Oatmeal Stout,6.1,26.0,2026-09-04,2026-09-04,,smoketown-drafts
+draft-9650767d7b57d760f664,smoketown,German Crossing Hefeweizen,Hefeweizen,5.2,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-0551e080f22e5547c2e6,smoketown,Gold Rush Amber Ale,Amber Ale,6.3,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-291bcfd3fb8a2f25d309,smoketown,Gulf of Smoketown Mexican Lager,Mexican Lager,4.9,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-a9ac115ba8ddd25ba52e,smoketown,ImPEACHable Sour,Sour,5.6,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-1c9b6e47fe79696d80d6,smoketown,Lumberjack West Coast IPA,West Coast IPA,5.0,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-9b25394c6df2781c8d22,smoketown,My Best Girl DIPA,Double IPA,8.5,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-4fdfb4f9086521be04e8,smoketown,No Kings British Pale Ale,British Pale Ale,5.4,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-ffdd85830f4ce4ba5fef,smoketown,Potomac English IPA,English IPA,7.4,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-d593988cd46b1bb581db,smoketown,ROYGBIV Power Sour,Sour,6.2,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-579e39a092f537c6bebd,smoketown,Senior Week Pineapple Hazy IPA,Pineapple Hazy IPA,5.0,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-04dc488b6b5ff46fe3b0,smoketown,Slimothy James Dry Hopped Amber,Dry Hopped Amber,5.9,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-82b3a9676b563f9c8f23,smoketown,Smokestack Black IPA,Black IPA,6.5,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-fc4d41dde06d246f1bf6,smoketown,The Patsy Hazy IPA,Hazy IPA,6.2,,2026-09-04,2026-09-04,,smoketown-drafts
+draft-8c71dc1c8622eb4120fe,smoketown,Walter's Spirit Bourbon Barrel Aged Porter,Bourbon Barrel Aged Porter,11.5,,2026-09-04,2026-09-04,,smoketown-drafts

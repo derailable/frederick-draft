@@ -1,0 +1,21 @@
+brewery_id,name,status,included,street_address,city,state,postal_code,latitude,longitude,website_url,food_service
+attaboy,Attaboy Beer,active,true,400 Sagner Ave Ste 400,Frederick,MD,21701,,,https://www.attaboybeer.com/,none
+attaboy-barrel-house,Attaboy Barrel House,seasonal,false,24 S Wisner St Ste 100,Frederick,MD,21701,,,https://www.attaboybarrelhouse.com/,none
+brewers-alley,Brewer's Alley Restaurant,active,true,124 N Market St,Frederick,MD,21701,,,https://brewers-alley.com/,full_kitchen
+freys,Frey's Brewing Company,seasonal,true,8601 Mapleville Rd,Mount Airy,MD,21771,,,https://www.freys.farm/,limited
+liquidity,Liquidity Aleworks,active,true,8 N Main St,Mount Airy,MD,21771,,,https://liquidityaleworks.com/,unknown
+midnight-run,Midnight Run Brewing,active,true,912 N East St,Frederick,MD,21701,,,https://www.midnightrunbrewing.com/,none
+milkhouse,Milkhouse Brewery at Stillpoint Farm,active,true,8253 Dollyhyde Rd,Mount Airy,MD,21771,,,https://www.milkhousebrewery.com/,limited
+monocacy,Monocacy Brewing Company,active,true,1781 N Market St,Frederick,MD,21701,,,https://monocacybrewing.com/,none
+olde-mother,Olde Mother Brewing Co.,active,true,526 N Market St,Frederick,MD,21701,,,https://oldemother.com/,resident_vendor
+prospect-point,Prospect Point Brewing,active,true,5500A Jefferson Pike,Frederick,MD,21703,,,https://www.prospectpointbrewing.com/,none
+rak,RAK Brewing Co.,active,true,400 Sagner Ave,Frederick,MD,21701,,,https://www.rakbrewing.com/,resident_vendor
+red-shedman,Red Shedman Farm Brewery,active,true,13601 Glissans Mill Rd,Mount Airy,MD,21771,,,https://www.linganorewines.com/,unknown
+rockwell,Rockwell Brewery Riverside,active,true,8411 Broadband Dr Ste K,Frederick,MD,21701,,,https://www.rockwellbrewery.com/,resident_vendor
+rockwell-east,Rockwell Brewery East Street,closed,false,880 N East St Ste 201,Frederick,MD,21701,,,https://www.rockwellbrewery.com/,none
+sandbox,Sandbox Brewhouse,active,true,880 N East St Ste 201,Frederick,MD,21701,,,https://www.sandboxbrewhouse.com/,none
+smoketown,Smoketown Brewing,active,true,223 W Potomac St,Brunswick,MD,21716,,,https://www.smoketownbrewing.com/,full_kitchen
+springfield-manor,Springfield Manor Winery Distillery Brewery,seasonal,true,11836 Auburn Rd,Thurmont,MD,21788,,,https://www.springfieldmanor.com/,limited
+steinhardt,Steinhardt Brewing,active,true,340 E Patrick St Ste 100-102,Frederick,MD,21701,,,https://www.steinhardtbrewing.com/,none
+idiom,Idiom Brewing Co.,closed,false,340 E Patrick St Ste 104,Frederick,MD,21701,,,https://www.idiombrewing.com/,full_kitchen
+mad-science,Mad Science Brewing Company,closed,false,1619 Buckeystown Pike,Adamstown,MD,21710,,,https://www.madsciencebrewing.com/,none
