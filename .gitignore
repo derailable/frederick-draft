@@ -1,14 +1,4 @@
-.venv/
-__pycache__/
-*.py[codz]
-.pytest_cache/
-.ruff_cache/
 .DS_Store
-*.egg-info/
 dist/
-build/
-.coverage
-
-# Downloaded third-party evidence and non-canonical extraction output.
-data/raw/
-data/candidates/
+.venv/
+node_modules/
