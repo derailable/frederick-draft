@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Frederick Beer Trail | Mudhop</title>
+    <meta
+      name="description"
+      content="A simple guide to visiting breweries across Frederick County, Maryland."
+    >
+    <meta name="theme-color" content="#f3efe4">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Frederick Beer Trail | Mudhop">
+    <meta
+      property="og:description"
+      content="A simple guide to visiting breweries across Frederick County, Maryland."
+    >
+    <meta property="og:url" content="https://derailable.github.io/frederick-draft/">
+    <link rel="canonical" href="https://derailable.github.io/frederick-draft/">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    >
+    <link rel="stylesheet" href="assets/styles.css">
+    <script
+      defer
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script type="module" src="assets/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#breweries">Skip to breweries</a>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Frederick Beer Trail home">
+        <svg aria-hidden="true" viewBox="0 0 36 36" width="30" height="30">
+          <path d="M18 2v32M8 9h20M8 27h20" />
+          <circle cx="18" cy="9" r="4" />
+          <circle cx="18" cy="27" r="4" />
+        </svg>
+        <span>Frederick Beer Trail</span>
+      </a>
+      <span class="mudhop-mark">Mudhop</span>
+    </header>
+
+    <main id="top">
+      <section class="hero shell" aria-labelledby="page-title">
+        <p class="eyebrow">An independent county guide</p>
+        <h1 id="page-title">Frederick<br> Beer Trail</h1>
+        <p class="lede">Visit every brewery in Frederick County.</p>
+
+        <div class="progress-summary" aria-labelledby="progress-copy">
+          <p id="progress-copy" class="progress-copy" aria-live="polite">
+            <strong id="visited-count">0</strong> of <strong id="brewery-count">—</strong> visited
+          </p>
+          <progress id="trail-progress" value="0" max="1">0% visited</progress>
+          <p id="completion-note" class="completion-note" hidden>Trail complete. Nicely done.</p>
+        </div>
+      </section>
+
+      <section class="trail-section shell" aria-labelledby="trail-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The network</p>
+            <h2 id="trail-title">Frederick Beer Trail</h2>
+          </div>
+          <p class="scale-note">Schematic · not to scale or a suggested route</p>
+        </div>
+        <div class="trail-frame">
+          <svg
+            id="trail-map"
+            class="trail-map"
+            viewBox="0 0 1000 560"
+            role="group"
+            aria-labelledby="trail-svg-title trail-svg-description"
+          >
+            <title id="trail-svg-title">Schematic of Frederick County breweries</title>
+            <desc id="trail-svg-description">
+              An abstract trail diagram with branches toward Brunswick, Thurmont, and eastern
+              Frederick County. It is not a driving route.
+            </desc>
+            <g class="trail-lines" aria-hidden="true">
+              <path d="M110 470 L235 320 L790 320" />
+              <path d="M610 320 L610 80" />
+              <path d="M735 320 L845 390 L950 490" />
+            </g>
+            <g class="trail-region-labels" aria-hidden="true">
+              <text x="78" y="520">Brunswick</text>
+              <text x="610" y="38" text-anchor="middle">Thurmont</text>
+              <text x="500" y="255" text-anchor="middle">Frederick</text>
+              <text x="940" y="540" text-anchor="end">East County</text>
+            </g>
+            <g id="trail-stops"></g>
+          </svg>
+        </div>
+      </section>
+
+      <section id="breweries" class="directory shell" aria-labelledby="directory-title">
+        <div class="section-heading directory-heading">
+          <div>
+            <p class="eyebrow">Make your mark</p>
+            <h2 id="directory-title">Breweries</h2>
+          </div>
+          <button id="reset-progress" class="text-button" type="button">Reset progress</button>
+        </div>
+
+        <div class="filters" aria-label="Filter breweries">
+          <div id="area-filters" class="filter-group" aria-label="Filter by area"></div>
+          <label class="status-filter" for="status-filter">
+            <span>Show</span>
+            <select id="status-filter">
+              <option value="all">All stops</option>
+              <option value="not-visited">Not visited</option>
+              <option value="visited">Visited</option>
+            </select>
+          </label>
+        </div>
+
+        <p id="result-count" class="result-count" aria-live="polite"></p>
+        <div id="brewery-list" class="brewery-list" aria-busy="true"></div>
+        <p id="empty-state" class="empty-state" hidden>No breweries match these filters.</p>
+      </section>
+
+      <section class="map-section shell" aria-labelledby="map-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Find your bearings</p>
+            <h2 id="map-title">County map</h2>
+          </div>
+          <p class="scale-note">Locations only · no route implied</p>
+        </div>
+        <p class="map-intro">
+          Use the map to understand distance and location. Every stop also has a directions link
+          in the list above.
+        </p>
+        <div id="brewery-map" class="brewery-map" aria-label="Interactive map of brewery locations">
+          <p id="map-status" class="map-status">Map loads when it comes into view.</p>
+        </div>
+      </section>
+
+      <section class="about shell" aria-labelledby="about-title">
+        <p class="eyebrow">About the trail</p>
+        <h2 id="about-title">A simple, independent field guide.</h2>
+        <p>
+          Check off the breweries you visit. Your progress stays on this device—no account,
+          cookies, or tracking. Brewery details are maintained by hand; check an official site
+          before making a special trip.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer shell">
+      <p>A <a href="https://mudhop.com/">Mudhop</a> project</p>
+      <p id="verified-date">Brewery list last verified September 2026.</p>
+      <p>
+        Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>
+      </p>
+    </footer>
+
+    <noscript>
+      <p class="noscript-message">
+        Frederick Beer Trail needs JavaScript to load the brewery directory and save your progress.
+      </p>
+    </noscript>
+  </body>
+</html>
