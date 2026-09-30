@@ -1,37 +1,78 @@
-# The Frederick Draft backend
+# Frederick Beer Trail
 
-This is the small data backend for a future publication about breweries in Frederick County,
-Maryland. It maintains four useful subjects: breweries, current tap runs, events, and food-truck
-appearances. Easy public sources are fetched with `httpx`; difficult sources are reviewed manually.
+Frederick Beer Trail is a small, independent guide to breweries currently operating in Frederick
+County, Maryland. Visitors can mark breweries as visited, follow their progress, browse a schematic
+trail, and use a geographic map. It is a [Mudhop](https://mudhop.com/) project, not an official
+Frederick County tourism program.
 
-AI may turn saved evidence into candidate observations, but deterministic Python validates and
-upserts canonical CSVs. Fetched website content is untrusted evidence, never instruction.
+## Architecture
 
-## Setup and weekly update
+The site is static and client-side only: semantic HTML, CSS, small JavaScript modules, and one JSON
+data file. There is no backend, database, account system, authentication, analytics, or scraping.
+Leaflet powers the geographic map; map tiles and geographic data come from OpenStreetMap.
 
-Python 3.12 or newer and `uv` are required.
+Visited state is stored in the browser under `frederick-beer-trail:v1` with this shape:
 
-```bash
-uv sync
-uv run frederick-draft fetch
-# Review evidence and update data/candidates/*.json.
-uv run frederick-draft validate
-uv run frederick-draft accept
-uv run frederick-draft metrics
+```json
+{
+  "visited": {
+    "attaboy": true
+  }
+}
 ```
 
-`accept` is idempotent. It extends or closes draft tap runs only when candidate extraction says a
-fetched source was usable and complete. It upserts events and food-truck appearances by stable IDs.
+Invalid storage is ignored, removed brewery IDs are discarded, and the checklist still works for
+the current session if local storage is unavailable.
 
-`data/reference/` and `data/public/` are committed. `data/raw/` contains local third-party evidence,
-and `data/candidates/` contains disposable extraction output; both are ignored. There are no weekly
-snapshot copies or metrics-history files.
+## Brewery data
 
-## Checks
+[`data/breweries.json`](data/breweries.json) is the only brewery data source. Its records generate
+the total, progress, filters, cards, schematic stops, and geographic markers.
+
+To maintain the directory:
+
+1. Add, remove, or edit a brewery in `data/breweries.json`.
+2. Keep `id` stable after publication; it is the identity used for saved progress.
+3. Verify that the business is operating as a brewery at a physical Frederick County location.
+4. Confirm the address, official HTTPS website, directions URL, and coordinates.
+5. Give the stop a legible `trail` position in the SVG's `1000 × 560` coordinate space.
+6. Update the top-level `lastVerified` date after reviewing the full list.
+7. Run `npm run check` and preview the result at phone and desktop widths.
+
+Do not add hours, tap lists, ratings, events, or other frequently changing details. Short visit notes
+are appropriate only when they prevent confusion, such as an event-oriented operation.
+
+## Local development
+
+The project has no package dependencies. Node.js 24 is used for validation and the production copy;
+any local static server can serve the source directly.
 
 ```bash
-uv run pytest
-uv run ruff check .
+npm run check
+npm run start
 ```
 
-See `docs/architecture.md`, `docs/data-model.md`, and `docs/weekly-workflow.md`.
+Open <http://localhost:8000/>. Opening `index.html` directly will not work because browsers block
+the JSON request from `file:` URLs.
+
+Create the exact production artifact with:
+
+```bash
+npm run build
+```
+
+The generated site is written to ignored `dist/`.
+
+## Deployment
+
+`.github/workflows/pages.yml` validates, builds, and deploys `dist/` on pushes to `main`. In the
+repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. The current
+canonical URL is `https://derailable.github.io/frederick-draft/`; update the canonical and Open Graph
+URLs in `index.html` if a custom domain is configured later. No `CNAME` is currently configured.
+
+## Credits and license
+
+The map uses [Leaflet](https://leafletjs.com/) and
+[OpenStreetMap](https://www.openstreetmap.org/copyright). OpenStreetMap data is available under the
+ODbL; Leaflet is BSD-2-Clause licensed. Project code is available under the repository's
+[MIT License](LICENSE).
